@@ -1,0 +1,16 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch localhost",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost/~tatsukawa/src/RoutesLab/?title=湖一周×4&id=f613116caa1ddc2899da15fa933b0aac,3700de6613eaf7637e9bebdd50dc82f7,6f262dd88888240f30706b8c809bfc65",
+            "port": 9222,
+            "webRoot": "${workspaceFolder}/"
+        }
+    ]
+}
